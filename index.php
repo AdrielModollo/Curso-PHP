@@ -94,7 +94,12 @@
                 </nav>
     </main>
     <footer class="rodape">
-            COD3R & ALUNOS 2020
+            Adriel 
+            
+            <?php
+                 date_default_timezone_set('America/Sao_Paulo');
+                 echo date('D/M/Y H:i:s');
+            ?>
     </footer>
 </body>
 </html>
