@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="recursos/css/estilo.css">
+    <link rel="stylesheet" href="recursos/css/exercicio.css">
     <title>Exercicio</title>
 </head>
-<body>
+<body class="exercicio">
     <!-- <header>teste</header>
     <main>teste</main>
     <footer>teste</footer>
@@ -13,13 +14,15 @@
     <span>teste</span> -->    
     <header class="cabecalho">
         <h1>Curso PHP</h1>
-        <h2>Visualização do Ecercício</h2>
+        <h2>Visualização do Exercício</h2>
     </header>
-    <main class="principal">
-        <div class="conteudo">
-               
-                    </div>          
-                </nav>
+        <nav class="navegacao">
+            <a href="#" class="verde">Sem formatação</a>
+            <a href="index.php" class="vermelho">Voltar</a>
+        </nav>
+            <main class="principal">
+            <div class="conteudo">
+        </div>
     </main>
     <footer class="rodape">
             Adriel 
