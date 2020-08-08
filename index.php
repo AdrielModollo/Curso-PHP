@@ -30,7 +30,7 @@
                     <div class="modulo vermelho">
                         <h3> Modulo 02- Básico </h3>
                     <ul>
-                        <li><a href="#">Exercicios A</A></a></li>
+                        <li><a href="basico/desafio.php">Desafio PHP</a></li>
                         <li><a href="#">Exercicios B</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
