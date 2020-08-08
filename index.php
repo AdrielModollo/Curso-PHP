@@ -24,7 +24,7 @@
                     <ul>
                         <li><a href="exercicio.php">Exercicios A</A></a></li>
                         <li><a href="basico/ola.php">PHP básico</a></li>
-                        <li><a href="#">Exercicios C</a></li>
+                        <li><a href="basico/integracao.php">Integração</a></li>
                     </ul>
                     </div>
                     <div class="modulo vermelho">
