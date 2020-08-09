@@ -47,7 +47,7 @@
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</A></a></li>
                         <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
-                        <li><a href="#">Exercicios C</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=conversao">Conversões</a></li>
                     </ul>
                     </div>
                     <div class="modulo orangered">
