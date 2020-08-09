@@ -30,14 +30,14 @@
                         <h3> Modulo 02- Básico </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=desafio">Desafio PHP</a></li>
-                        <li><a href="exercicio.php?dir=tipos&file=int">Tipos </a></li>
-                        <li><a href="#">Exercicios C</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro </a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
                     </ul>
                     </div>
                     <div class="modulo black">
                         <h3> Modulo 03 - Básico </h3>
                     <ul>
-                        <li><a href="#">Exercicios A</A></a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Operações Aritméticas</A></a></li>
                         <li><a href="#">Exercicios B</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
