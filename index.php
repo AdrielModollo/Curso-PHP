@@ -53,7 +53,7 @@
                     <div class="modulo orangered">
                         <h3> Modulo 05 - Básico </h3>
                     <ul>
-                        <li><a href="#">Exercicios A</A></a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=variaveis">Variáveis</a></li>
                         <li><a href="#">Exercicios B</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
