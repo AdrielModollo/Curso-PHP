@@ -22,16 +22,15 @@
                     <div class="modulo verde">
                         <h3> Modulo 01 - Básico </h3>
                     <ul>
-                        <li><a href="exercicio.php">Exercicios A</A></a></li>
-                        <li><a href="basico/ola.php">PHP básico</a></li>
-                        <li><a href="basico/integracao.php">Integração</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=ola">PHP básico</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=integracao">Integração</a></li>
                     </ul>
                     </div>
                     <div class="modulo vermelho">
                         <h3> Modulo 02- Básico </h3>
                     <ul>
-                        <li><a href="basico/desafio.php">Desafio PHP</a></li>
-                        <li><a href="#">Exercicios B</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio PHP</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipos </a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
                     </div>
