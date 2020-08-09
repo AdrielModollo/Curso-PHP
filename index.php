@@ -55,7 +55,7 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis">Variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio equação</a></li>
-                        <li><a href="#">Exercicios C</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições PHP</a></li>
                     </ul>
                     </div>
                     <div class="modulo gray">
