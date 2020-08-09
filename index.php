@@ -46,7 +46,7 @@
                         <h3> Modulo 04 - Básico </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</A></a></li>
-                        <li><a href="#">Exercicios B</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
                     </div>
