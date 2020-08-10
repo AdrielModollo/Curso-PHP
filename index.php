@@ -62,7 +62,7 @@
                         <h3> Modulo 06 - Básico </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</A></a></li>
-                        <li><a href="#">Exercicios B</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
                     </div>
