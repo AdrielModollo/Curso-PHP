@@ -9,4 +9,7 @@
     $responder = 'esse';
     $esse = 'desafio';
 
-    echo "$a! {$$a} {$$Nossa} {$$Eu} {$$consegui} {$$responder} {$$esse} ";
+    echo "$a! {$$a} {$$Nossa} {$$Eu} {$$consegui} {$$responder} {$$esse}. ";
+
+    echo '<br> Outra solução:';
+    echo " $a! {$$a} {$$$a} {$$$$a} {$$$$a} {$$$$$a} {$$$$$$a}.";

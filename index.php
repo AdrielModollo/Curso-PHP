@@ -69,7 +69,7 @@
                     <div class="modulo blueviolet">
                         <h3> Modulo 07 - Básico </h3>
                     <ul>
-                        <li><a href="#">Exercicios A</A></a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia"> Valor Referência</a></li>
                         <li><a href="#">Exercicios B</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
