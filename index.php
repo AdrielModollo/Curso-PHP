@@ -63,7 +63,7 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</A></a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
-                        <li><a href="#">Exercicios C</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
                     </ul>
                     </div>
                     <div class="modulo blueviolet">
