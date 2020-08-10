@@ -55,13 +55,13 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis">Variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio equação</a></li>
-                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
                     </ul>
                     </div>
                     <div class="modulo gray">
                         <h3> Modulo 06 - Básico </h3>
                     <ul>
-                        <li><a href="#">Exercicios A</A></a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</A></a></li>
                         <li><a href="#">Exercicios B</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
