@@ -84,7 +84,7 @@
                     <div class="modulo yellowgreen">
                         <h3> Modulo 09 - Básico </h3>
                     <ul>
-                        <li><a href="#">Exercicios A</A></a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores Logicos</a></li>
                         <li><a href="#">Exercicios B</a></li>
                         <li><a href="#">Exercicios C</a></li>
                     </ul>
