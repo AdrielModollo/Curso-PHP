@@ -76,9 +76,9 @@
                     <div class="modulo yellow">
                         <h3> Modulo 08 - Básico </h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=controle&file=if_else">IF And Else</A></a></li>
-                        <li><a href="#">Exercicios B</a></li>
-                        <li><a href="#">Exercicios C</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">IF And if_else</A></a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
                     </ul>
                     </div>
                     <div class="modulo yellowgreen">
