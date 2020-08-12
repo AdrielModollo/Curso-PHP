@@ -115,27 +115,10 @@ body {
 .modulo.verde {border: 2px solid green; }
 .modulo.verde > h3 {background-color: green; }
 
-.modulo.vermelho {border: 2px solid red; }
-.modulo.vermelho > h3 {background-color: red; }
-
-.modulo.black {border: 2px solid black; }
-.modulo.black > h3 {background-color: black; }
-
-.modulo.orange {border: 2px solid orange; }
-.modulo.orange > h3 {background-color: orange; }
-
 .modulo.orangered {border: 2px solid orangered; }
 .modulo.orangered > h3 {background-color: orangered; }
-
-.modulo.gray {border: 2px solid gray; }
-.modulo.gray > h3 {background-color: gray; }
-
-.modulo.blueviolet {border: 2px solid blueviolet; }
-.modulo.blueviolet > h3 {background-color: blueviolet; }
 
 .modulo.yellow {border: 2px solid yellow; }
 .modulo.yellow > h3 {background-color: yellow; }
 
-.modulo.yellowgreen {border: 2px solid yellowgreen; }
-.modulo.yellowgreen > h3 {background-color: yellowgreen; }
 
