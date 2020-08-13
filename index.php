@@ -61,6 +61,13 @@
                         <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a></li>
                     </ul>
                     </div>
+
+                    <div class="modulo cinza">
+                        <h3> Modulo 04 - Array </h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                    </ul>
+                    </div>
                            
                 </nav>
     </main>
