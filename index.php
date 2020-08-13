@@ -66,6 +66,7 @@
                         <h3> Modulo 04 - Array </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa Array</a></li>
                     </ul>
                     </div>
                            

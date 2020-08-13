@@ -9,6 +9,7 @@ echo '<br>';
 print_r($lista);
 
 $lista[0] = 1234;
+print_r($lista);
 
 echo '<br>' . $lista[0];
 echo '<br>' . $lista[1];
