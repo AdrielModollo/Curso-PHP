@@ -70,7 +70,7 @@
                         <li><a href="exercicio.php?dir=array&file=desafio_php">Desafio PHP</a></li>
                         <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses PHP</a></li>
                         <li><a href="exercicio.php?dir=array&file=operacoes">Operações</a></li>
-
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
                     </ul>
                     </div>
                            
