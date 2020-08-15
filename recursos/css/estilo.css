@@ -121,4 +121,12 @@ body {
 .modulo.yellow {border: 2px solid yellow; }
 .modulo.yellow > h3 {background-color: yellow; }
 
+.modulo.blue {border: 2px solid blue; }
+.modulo.blue > h3 {background-color: blue; }
+
+.modulo.red {border: 2px solid red; }
+.modulo.red > h3 {background-color: red; }
+
+
+
 

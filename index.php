@@ -35,6 +35,7 @@
                         <li><a href="exercicio.php?dir=tipos&file=conversao">Conversões</a></li>
                     </ul>
                     </div>
+
                     <div class="modulo orangered">
                         <h3> Modulo 02 - Váriaveis </h3>
                     <ul>
@@ -48,6 +49,7 @@
                         <li><a href="exercicio.php?dir=variaveis&file=constante">Constantes</a></li>
                     </ul>
                     </div>
+                    
                     <div class="modulo yellow">
                         <h3> Modulo 03 - Controle </h3>
                     <ul>
@@ -62,7 +64,7 @@
                     </ul>
                     </div>
 
-                    <div class="modulo cinza">
+                    <div class="modulo blue">
                         <h3> Modulo 04 - Array </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
@@ -78,15 +80,25 @@
                         <li><a href="exercicio.php?dir=array&file=comparacao">Comparação</a></li>
                     </ul>
                     </div>
-                           
+
+                    <div class="modulo red">
+                        <h3> Modulo 05 - Repetições </h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=for">For</a></li>
+                        </ul>
+                    </div>
+                       
                 </nav>
     </main>
     <footer class="rodape">
             Adriel 
             
             <?php
+                 setlocale( LC_ALL, 'pt_BR', 'pt_BR.iso-8859-1', 'pt_BR.utf-8', 'portuguese' ); 
                  date_default_timezone_set('America/Sao_Paulo');
-                 echo date('D/M/Y H:i:s');
+                 $date = date('Y-m-d H:i:s');
+                 echo $date;
+             
             ?>
     </footer>
 </body>
