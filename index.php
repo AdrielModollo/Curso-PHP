@@ -85,7 +85,8 @@
                         <h3> Modulo 05 - Repetições </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=repeticoes&file=for">For</a></li>
-                        </ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio For</a></li>
+                    </ul>
                     </div>
                        
                 </nav>
