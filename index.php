@@ -94,6 +94,13 @@
                         <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">Desafio Tabela 2</a></li>
                     </ul>
                     </div>
+
+                    <div class="modulo red">
+                        <h3> Modulo 06 - Funções </h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcao&file=escopo">Funções</a></li>
+                    </ul>
+                    </div>
                        
                 </nav>
     </main>
