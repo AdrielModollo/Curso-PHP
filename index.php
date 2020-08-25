@@ -101,6 +101,7 @@
                         <li><a href="exercicio.php?dir=funcao&file=escopo">Funções</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=args_retorno">Argumentos Retorno</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=desafio_Palindromo">Desafio Palindromo</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=args_variaveis">Argumentos Variáveis</a></li>
                     </ul>
                     </div>
                        
