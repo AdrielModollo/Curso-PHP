@@ -99,7 +99,8 @@
                         <h3> Modulo 06 - Funções </h3>
                     <ul>
                         <li><a href="exercicio.php?dir=funcao&file=escopo">Funções</a></li>
-                        <li><a href="exercicio.php?dir=funcao&file=args_retorno">Args Retorno</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=args_retorno">Argumentos Retorno</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=desafio_Palindromo">Desafio Palindromo</a></li>
                     </ul>
                     </div>
                        
