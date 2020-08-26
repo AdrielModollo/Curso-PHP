@@ -103,6 +103,7 @@
                         <li><a href="exercicio.php?dir=funcao&file=desafio_Palindromo">Desafio Palindromo</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=args_padrao">Argumentos Padrão</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=funcao_anonima">Função anônima</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=closure_callable">Closure e Callable</a></li>
                     </ul>
                     </div>
                        
