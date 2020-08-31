@@ -24,6 +24,9 @@
                             <a href="exercicio.php?dir=classes_objetos&file=desafio_data">
                                 Desafio Data
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=construct">
+                                Construtor e Destrutor
+                            </a>
                         </li>
                     </ul>
                 </div>
