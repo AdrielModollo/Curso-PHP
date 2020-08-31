@@ -3,14 +3,14 @@
 <?php
 $dados = [
     [
-        "nome" => "Adriel",
-        "idade" => 24,
-        "naturalidade" => "Matão"
+        "nome" => "Roberto",
+        "idade" => 26,
+        "naturalidade" => "São Paulo"
     ],
     [
-        "nome" => "Marina",
-        "idade" => 14,
-        "naturalidade" => "Araraquara"
+        "nome" => "Maria",
+        "idade" => 25,
+        "naturalidade" => "Bahia"
     ],
 ];
 
@@ -19,7 +19,7 @@ echo '<br>' . $dados[0]['idade'];
 echo '<br>' . $dados[1]['idade'];
 
 $dados[] = [
-    "nome" => "Zezinho",
+    "nome" => "Florinda",
     "idade" => 30,
     "naturalidade" => "Cidade do México"
 ];

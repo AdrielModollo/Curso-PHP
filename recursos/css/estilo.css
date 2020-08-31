@@ -25,7 +25,7 @@ body {
     align-items: center;
     padding-bottom: 10px;
     z-index: 1;
-    box-shadow: 0px 4px 9px -2px rgba(0,0,0,0.75); 
+    box-shadow: 0px 4px 9px -2px rgba(0,0,0,0.75);
 }
 
 .cabecalho > h1 {
@@ -50,27 +50,25 @@ body {
 .conteudo {
     position: relative;
     height: 100%;
-    overflow-y:scroll;
-    background-color: white;
-    padding: 20px; 
-    box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.75);
+    overflow-y: scroll;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
 }
 
 .rodape {
     grid-area: rodape;
-    background-color: white;
+    background-color: #fff;
     display: flex;
     justify-content: flex-end;
     align-items: center;
     font-size: 1.2rem;
-    padding-right: 0px 20px;
+    padding-right: 20px;
     color: #444;
-    position: sticky;
-    bottom: 0px;
 }
 
 .modulos {
-    display: flex; 
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
@@ -83,14 +81,14 @@ body {
 
 .modulo > h3 {
     margin: 0px;
-    color: white;
+    color: #fff;
     font-weight: 300;
     font-size: 1.5rem;
     padding: 10px 20px;
-    background-color: blue;
+    background-color: #1867c0;
 }
 
-.modulo >ul {
+.modulo > ul {
     margin: 0px;
     padding: 10px;
     list-style: none;
@@ -105,28 +103,45 @@ body {
 .modulo > ul > li > a {
     display: flex;
     text-decoration: none;
-    color: black;
+    color: #222;
 }
 
 .modulo > ul > li:hover {
-    background-color: blanchedalmond;
+    background-color: #EEE;
 }
 
-.modulo.verde {border: 2px solid green; }
-.modulo.verde > h3 {background-color: green; }
+.modulo.verde { border: 2px solid #4CAF50; }
+.modulo.verde > h3 { background-color: #4CAF50; }
 
-.modulo.orangered {border: 2px solid orangered; }
-.modulo.orangered > h3 {background-color: orangered; }
+.modulo.vermelho { border: 2px solid #F44336; }
+.modulo.vermelho > h3 { background-color: #F44336; }
 
-.modulo.yellow {border: 2px solid yellow; }
-.modulo.yellow > h3 {background-color: yellow; }
+.modulo.azul { border: 2px solid #2196F3; }
+.modulo.azul > h3 { background-color: #2196F3; }
 
-.modulo.blue {border: 2px solid blue; }
-.modulo.blue > h3 {background-color: blue; }
+.modulo.roxo { border: 2px solid #9C27B0; }
+.modulo.roxo > h3 { background-color: #9C27B0; }
 
-.modulo.red {border: 2px solid red; }
-.modulo.red > h3 {background-color: red; }
+.modulo.laranja { border: 2px solid #FF9800; }
+.modulo.laranja > h3 { background-color: #FF9800; }
 
+.modulo.verde-escuro { border: 2px solid #1B5E20; }
+.modulo.verde-escuro > h3 { background-color: #1B5E20; }
 
+.modulo.vermelho-escuro { border: 2px solid #B71C1C; }
+.modulo.vermelho-escuro > h3 { background-color: #B71C1C; }
 
+.modulo.azul-escuro { border: 2px solid #0D47A1; }
+.modulo.azul-escuro > h3 { background-color: #0D47A1; }
 
+.modulo.roxo-escuro { border: 2px solid #4A148C; }
+.modulo.roxo-escuro > h3 { background-color: #4A148C; }
+
+p.divisao {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 0px;
+}

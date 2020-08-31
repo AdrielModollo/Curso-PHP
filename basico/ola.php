@@ -1,14 +1,13 @@
 <div class="titulo">Olá PHP</div>
 
+<h2>Exemplo A</h2>
 <?php
-echo "Olá";
-echo 3-1, "\n";
+echo 'Olá ';
+echo "Mundo!";
 ?>
 
-<!-- alt para cima ou baixo move para linha cima ou de baixa
-     alt shit cima ou baixo adiciona copia nas linhas
---->
+<h2>Exemplo B</h2>
+<?= "Outra forma de me 'expressar'!" ?>
 
 <?php
 phpinfo();
-

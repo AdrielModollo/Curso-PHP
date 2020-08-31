@@ -2,14 +2,15 @@
 
 <?php
 
-    $a = 'Nossa';
-    $Nossa = 'Eu';
-    $Eu = 'consegui';
-    $consegui = 'responder';
-    $responder = 'esse';
-    $esse = 'desafio';
+$a = 'Nossa';
+$Nossa = 'Eu';
+$Eu = 'consegui';
+$consegui = 'responder';
+$responder = 'esse';
+$esse = 'desafio';
 
-    echo "$a! {$$a} {$$Nossa} {$$Eu} {$$consegui} {$$responder} {$$esse}. ";
+echo "Nossa! Eu consegui responder esse desafio.";
 
-    echo '<br> Outra solução:';
-    echo " $a! {$$a} {$$$a} {$$$$a} {$$$$a} {$$$$$a} {$$$$$$a}.";
+// $a
+echo "<br>";
+echo "$a! {$$a} {$$$a} {$$$$a} {$$$$$a} {$$$$$$a}.";

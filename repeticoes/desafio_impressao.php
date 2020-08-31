@@ -1,31 +1,30 @@
-<div class = "titulo"> Desafio Impressão</div>
+<div class="titulo">Desafio Impressão</div>
 
 <!--
-    Enunciado:
-    --Imprima apenas os valores do array que contém indice par
-    -Resolvar com for e foreach
-    -Valores esperados: AAA, CCC, EEE
+Enunciado: 
+- Imprima apenas os valores do array que contém indice par
+- Resolver com for e foreach
+- Valores esperados: AAA, CCC, EEE
 -->
 
-    <?php
-    $array = [
-        "AAA",
-        "BBB",
-        "CCC",
-        "DDD",
-        "EEE",
-        "FFF"
-    ];
+<?php
+$array = [
+    "AAA",
+    "BBB",
+    "CCC",
+    "DDD",
+    "EEE",
+    "FFF"
+];
 
-        for ($i =  0; $i < count($array); $i++) {
-            if($i % 2 === 1) continue;
-            echo "{$array[$i]} <br>";
-        }
+for($i = 0; $i < count($array); $i++) {
+    if($i % 2 === 1) continue;
+    echo "{$array[$i]} ";
+}
 
 echo "<br>";
 
-        foreach($array as $chave => $valor){
-            if($chave %2 !==0) continue;
-            echo "$valor <br>";
-        }
-
+foreach($array as $chave => $valor) {
+    if($chave % 2 !== 0) continue;
+    echo "$valor ";
+}

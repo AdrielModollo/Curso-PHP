@@ -9,7 +9,7 @@ var_dump($arr1 === $arr2);
 $arr3 = ['idade' => 20, 'nome' => 'Maria'];
 echo '<br>';
 var_dump($arr1 == $arr3);
-var_dump($arr1 === $arr3); //comparação estritamente igual
+var_dump($arr1 === $arr3);
 var_dump($arr1 != $arr3);
 var_dump($arr1 !== $arr3);
 

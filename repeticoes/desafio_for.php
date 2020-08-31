@@ -1,7 +1,17 @@
-<div class="titulo">Desafio FOR</div>
+<div class="titulo">Desafio For</div>
+
+<!-- 
+Usar o for...
+#
+##
+###
+####
+#####
+1) Pode usar incremento $i++
+2) Não pode usar incremento $i++
+-->
 
 <?php
-
 $impressao = '';
 for($cont = 1; $cont <= 5; $cont++) {
     $impressao .= '#';
@@ -10,9 +20,10 @@ for($cont = 1; $cont <= 5; $cont++) {
 
 echo '<hr>';
 
-for (
+for(
     $impressao2 = '#';
-    $impressao2 !== '######';
-    $impressao2 .= '#') {
-        echo "$impressao2 <br>";
-    }
+    $impressao2 !== '######'; 
+    $impressao2 .= '#'
+) {
+    echo "$impressao2 <br>";
+}
