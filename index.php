@@ -21,6 +21,9 @@
                             <a href="exercicio.php?dir=classes_objetos&file=classe">
                                 Classe
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_data">
+                                Desafio Data
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -363,7 +366,14 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+        Adriel © <?php
+          
+          setlocale( LC_ALL, 'pt_BR', 'pt_BR.iso-8859-1', 'pt_BR.utf-8', 'portuguese' ); 
+          date_default_timezone_set('America/Sao_Paulo');
+          $date = date('Y-m-d H:i:s');
+          echo $date;
+        
+        ?>
     </footer>
 </body>
 </html>
