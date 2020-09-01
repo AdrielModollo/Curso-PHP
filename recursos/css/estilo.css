@@ -131,6 +131,9 @@ body {
 .modulo.vermelho-escuro { border: 2px solid #B71C1C; }
 .modulo.vermelho-escuro > h3 { background-color: #B71C1C; }
 
+.modulo.cinza { border: 2px solid #444; }
+.modulo.cinza > h3 { background-color: #444; }
+
 .modulo.azul-escuro { border: 2px solid #0D47A1; }
 .modulo.azul-escuro > h3 { background-color: #0D47A1; }
 

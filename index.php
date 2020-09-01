@@ -14,7 +14,7 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-            <div class="modulo vermelho-escuro">
+            <div class="modulo cinza">
                     <h3>8. Orientação a Objetos</h3>
                     <ul>
                         <li>
@@ -32,6 +32,9 @@
                             </a>
                             <a href="exercicio.php?dir=classes_objetos&file=visibilidade">
                                 Visibilidade
+                            </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=static">
+                                Static
                             </a>
                         </li>
                     </ul>
