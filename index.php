@@ -27,6 +27,9 @@
                             <a href="exercicio.php?dir=classes_objetos&file=construct">
                                 Construtor e Destrutor
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=heranca">
+                                Herança
+                            </a>
                         </li>
                     </ul>
                 </div>
