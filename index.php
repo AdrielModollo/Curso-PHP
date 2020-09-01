@@ -30,6 +30,9 @@
                             <a href="exercicio.php?dir=classes_objetos&file=heranca">
                                 Herança
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=visibilidade">
+                                Visibilidade
+                            </a>
                         </li>
                     </ul>
                 </div>
