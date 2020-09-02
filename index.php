@@ -54,6 +54,9 @@
                             <a href="exercicio.php?dir=classes_objetos&file=traits_02">
                                 Traits 02
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=magic_methods">
+                                Métodos Mágicos
+                            </a>
                         </li>
                     </ul>
                 </div>
