@@ -14,48 +14,77 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-            <div class="modulo cinza">
-                    <h3>8. Orientação a Objetos</h3>
+                <div class="modulo azul-escuro">
+                    <h3>8. Paradigma O.O.</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=classes_objetos&file=classe">
-                                Classe
+                                Primeira Classe
                             </a>
-                            <a href="exercicio.php?dir=classes_objetos&file=desafio_data">
-                                Desafio Data
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=data">
+                                Classe Data
                             </a>
-                            <a href="exercicio.php?dir=classes_objetos&file=construct">
-                                Construtor e Destrutor
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+                                Const. e Destrutor
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=heranca">
                                 Herança
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=visibilidade">
                                 Visibilidade
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=static">
-                                Static
+                                Membros Estáticos
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=interface">
                                 Interface
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=abstract">
                                 Classe Abstrata
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=desafio_erros">
                                 Desafio Erros
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=final">
-                                Final
+                                Modificador Final
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=traits_01">
-                                Traits 01
+                                Traits #01
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=traits_02">
-                                Traits 02
+                                Traits #02
                             </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=classes_objetos&file=magic_methods">
                                 Métodos Mágicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=polimorfismo">
+                                Polimorfismo
                             </a>
                         </li>
                     </ul>
@@ -399,14 +428,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Adriel © <?php
-          
-          setlocale( LC_ALL, 'pt_BR', 'pt_BR.iso-8859-1', 'pt_BR.utf-8', 'portuguese' ); 
-          date_default_timezone_set('America/Sao_Paulo');
-          $date = date('Y-m-d H:i:s');
-          echo $date;
-        
-        ?>
+        COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
