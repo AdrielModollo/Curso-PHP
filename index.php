@@ -39,6 +39,9 @@
                             <a href="exercicio.php?dir=classes_objetos&file=interface">
                                 Interface
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=abstract">
+                                Classe Abstrata
+                            </a>
                         </li>
                     </ul>
                 </div>
