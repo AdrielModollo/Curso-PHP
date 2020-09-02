@@ -42,6 +42,18 @@
                             <a href="exercicio.php?dir=classes_objetos&file=abstract">
                                 Classe Abstrata
                             </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_erros">
+                                Desafio Erros
+                            </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=final">
+                                Final
+                            </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=traits_01">
+                                Traits 01
+                            </a>
+                            <a href="exercicio.php?dir=classes_objetos&file=traits_02">
+                                Traits 02
+                            </a>
                         </li>
                     </ul>
                 </div>
