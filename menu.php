@@ -12,6 +12,16 @@
                     Include Função
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=includes&file=include_require">
+                    Include vs Require
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=includes&file=require_return">
+                    Require & Return
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo azul-escuro">
