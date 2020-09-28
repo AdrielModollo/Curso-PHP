@@ -1,6 +1,6 @@
 <nav class="modulos">
     <div class="modulo ciano">
-        <h3>9. Namespace</h3>
+        <h3>10. Namespace</h3>
         <ul>
             <li>
                 <a href="exercicio.php?dir=namespace&file=basico">
@@ -9,7 +9,17 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=namespace&file=sub_namespaces">
-                    Sub Namespace
+                    Sub namespace
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=namespace&file=use_as_arquivo">
+                    Use as arquivo
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=namespace&file=use_as">
+                    Use As
                 </a>
             </li>
         </ul>
