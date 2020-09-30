@@ -3,8 +3,13 @@
         <h3>11. Trat. de Erro</h3>
         <ul>
             <li>
-                <a href="exercicio.php?dir=TryCath&file=try_catch">
+                <a href="exercicio.php?dir=TryCatch&file=try_catch">
                     Try/Catch
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=TryCatch&file=erros_personalizados">
+                    Erros Personalizados
                 </a>
             </li>
         </ul>
