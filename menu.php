@@ -12,6 +12,11 @@
                     Erros Personalizados
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=TryCatch&file=desafio_intdiv_teste">
+                    Desafio intdiv
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo ciano">
