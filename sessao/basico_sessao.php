@@ -7,11 +7,11 @@ print_r($_SESSION);
 echo '<br>';
 
 if(!$_SESSION['nome']) {
-    $_SESSION['nome'] = 'Gabriel';
+    $_SESSION['nome'] = 'Adriel';
 }
 
 if(!$_SESSION['email']) {
-    $_SESSION['email'] = 'gabriel@azmail.com';
+    $_SESSION['email'] = 'adriel@azmail.com';
 }
 
 print_r($_SESSION);
