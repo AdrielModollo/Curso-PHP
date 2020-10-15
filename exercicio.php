@@ -10,7 +10,6 @@ if(!$_SESSION['usuario']) {
 }
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,14 +39,7 @@ if(!$_SESSION['usuario']) {
         </div>
     </main>
     <footer class="rodape">
-        Adriel © <?php
-          
-        setlocale( LC_ALL, 'pt_BR', 'pt_BR.iso-8859-1', 'pt_BR.utf-8', 'portuguese' ); 
-        date_default_timezone_set('America/Sao_Paulo');
-        $date = date('Y-m-d H:i:s');
-        echo $date;
-        
-         ?>
+        COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
 </html>

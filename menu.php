@@ -1,5 +1,44 @@
 <nav class="modulos">
-
+    <div class="modulo azul">
+        <h3>13. API</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=api&file=datas_01">
+                    Datas #01
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=datas_02">
+                    Datas #02
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=escrever_arquivo">
+                    Escrever Arquivo
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=ler_arquivo">
+                    Ler Arquivo
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=upload">
+                    Upload
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=download">
+                    Download
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=imagens">
+                    Imagens
+                </a>
+            </li>
+        </ul>
+    </div>
     <div class="modulo vermelho">
         <h3>12. Sessão</h3>
         <ul>
@@ -16,51 +55,46 @@
         </ul>
     </div>
     <div class="modulo verde">
-    <h3>11. Trat. de Erro</h3>
-    <ul>
-        <li>
-            <a href="exercicio.php?dir=TryCatch&file=try_catch">
-                Try/Catch
-            </a>
-        </li>
-        <li>
-            <a href="exercicio.php?dir=TryCatch&file=erros_personalizados">
-                Erros Personalizados
-            </a>
-        </li>
-        <li>
-            <a href="exercicio.php?dir=TryCatch&file=desafio_intdiv_teste">
-                Desafio intdiv
-            </a>
-        </li>
-        <li>
-            <a href="exercicio.php?dir=TryCatch&file=gerenciador_erro">
-                Error Handler
-            </a>
-        </li>
-    </ul>
+        <h3>11. Trat. de Erro</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=try_catch">
+                    Try/Catch
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">
+                    Erros Personalizados
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">
+                    Desafio intdiv
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">
+                    Error Handler
+                </a>
+            </li>
+        </ul>
     </div>
-    <div class="modulo ciano">
+    <div class="modulo laranja-escuro">
         <h3>10. Namespace</h3>
         <ul>
             <li>
                 <a href="exercicio.php?dir=namespace&file=basico">
-                    Básico Namespace
+                    Exemplo Básico
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=namespace&file=sub_namespaces">
-                    Sub namespace
-                </a>
-            </li>
-            <li>
-                <a href="exercicio.php?dir=namespace&file=use_as_arquivo">
-                    Use as arquivo
+                    Sub-Namespaces
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=namespace&file=use_as">
-                    Use As
+                    Use/As
                 </a>
             </li>
         </ul>
